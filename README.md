@@ -16,23 +16,11 @@ This dashboard enables the Corporate Team and Branch Heads to,Evaluate business 
 •	Track Open Opportunities and Opportunity Win Ratio to measure pipeline health.
 
 # Process
-Data Collection from multiple sheets:
-•	Target Sheet – Captured FY targets for New, Cross-Sell, and Renewal.
-•	Brokerage + Fees Sheet – Extracted achieved values for each business type.
-•	Invoice Sheet – Collected invoiced achievements for performance comparison.
-•	Meeting Sheet – Gathered details of meetings held by each Account Executive.
-•	Opportunity Report – Included data on Open, Qualified, and Closed Won stages.
- Data Cleaning and Preparation
-•	Removed duplicates and standardized formats.
-•	Mapped targets, achievements, and opportunities to each branch and executive.
-  KPI Calculation
-•	Calculated Achievement % = (Achieved ÷ Target) × 100.
-•	Calculated Conversion Ratio = (Closed Won ÷ Total Opportunities) × 100.
-•	Computed branch-wise and individual performance metrics.
-  Dashboard Creation
-•	Designed visual charts for Targets vs Achievements, Opportunities, Meetings, and Invoices.
-•	Built interactive filters for branch, individual, and business category views.
-  Performance Analysis
-•	Compared individual vs branch results.
-•	Identified top-performing executives and improvement areas.
+Data Collection from multiple sheets:Target Sheet – Captured FY targets for New, Cross-Sell, and Renewal,	Brokerage + Fees Sheet – Extracted achieved values for each business type.Invoice Sheet – Collected invoiced achievements for performance comparison.Meeting Sheet – Gathered details of meetings held by each Account Executive.Opportunity Report – Included data on Open, Qualified, and Closed Won stages.
+
+ Data Cleaning and Preparation:	Removed duplicates and standardized formats.Mapped targets, achievements, and opportunities to each branch and executive.
+ 
+  KPI Calculation:	Calculated Achievement % = (Achieved ÷ Target) × 100.	Calculated Conversion Ratio = (Closed Won ÷ Total Opportunities) × 100.	Computed branch-wise and individual performance metrics.
+  Dashboard Creation: Designed visual charts for Targets vs Achievements, Opportunities, Meetings, and Invoices.
+
 
