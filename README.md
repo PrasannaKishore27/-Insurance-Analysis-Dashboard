@@ -1,2 +1,25 @@
-# -Insurance-Analysis-Dashboard
-This project is designed to monitor and analyze both new and renewal business performance across different branches. It serves as a key tool for discussions between the Corporate Team and Branch Heads, focusing on sales, opportunities, and overall achievement of business targets.The dashboard evaluates individual and branch-level performance based on key metrics drawn from multiple data sources such as Target sheets, Brokerage & Fees sheets, Invoice sheets, Meeting reports, and Opportunity reports.
+# Insurance Data Analysis (Create Interactive Dashboards Using MS Excel, Tableau and Power BI)
+Project Objective
+To analyze and visualize banking data using Excel, Power BI, and Tableau to identify key performance trends, improve loan tracking, and support strategic, data-driven decisions.
+
+Questions (KPI's)
+Caluacate the Disbursement Trend with Years
+caluacate the State Wise Loans from the Banks
+Branch Wise and Religion Wise Loans
+Caluacate The Top 10 High Value Customers
+Transaction Distribution Methods
+MOnth Wise Transactions count
+No.of Loans Issued
+Total Recovered Interest
+Default & Delinquent count
+Verified & Not Verifed Loans count
+Process
+Data Collection: Gather banking data — customer details, loan disbursement, repayment, and branch performance records.
+
+Data Cleaning & Preparation: Use Excel / Power Query to remove duplicates, merge tables, and create calculated columns (e.g., recovery %).
+
+Data Modeling & KPI Calculation: Build relationships between tables and define KPIs like total loans, NPL ratio, and repayment rate in Power BI or Excel.
+
+Dashboard Creation: Design interactive dashboards in Power BI, Tableau, and Excel using charts, slicers, and KPI cards to visualize insights.
+
+Insights & Reporting: Analyze trends, identify high-risk areas, and share actionable insights for better loan management and customer targeting.
