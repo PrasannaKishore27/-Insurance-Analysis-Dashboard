@@ -1,7 +1,7 @@
 # Insurance Data Analysis (Create Interactive Dashboards Using MS Excel, Tableau and Power BI)
 # Project Objective
 
-The main objective of the Branch KPI Dashboard is to track, analyze, and improve the performance of each branch by monitoring new and renewal business metrics.
+The main objective of the Insurance Data Analysis Dashboard is to track, analyze, and improve the performance of each branch by monitoring new and renewal business metrics.
 This dashboard enables the Corporate Team and Branch Heads to,Evaluate business growth through Targets vs. Achievements (New, Renewal, Cross-sell).Measure sales effectiveness, opportunity conversion, and individual contribution.Facilitate data-driven discussions and decisions to improve productivity and profitability.
 # Questions (KPI's)
 •	Calculate the Target vs Achieved performance for New, Cross-Sell, and Renewal business.
@@ -44,15 +44,10 @@ Power BI Dashboard:
 <img width="975" height="619" alt="image" src="https://github.com/user-attachments/assets/32911e83-3b4e-4860-a593-af6ddf59cf84" />
 
 # Project Insights
-•	Performance Variation: Some branches excelled in renewals, while others showed gaps in new business acquisition.
+The analysis of the Insurance Analysis Dashboard revealed several key insights into branch and individual performance. It was observed that branches with consistent client interactions achieved higher target fulfillment and stronger opportunity conversion ratios. The New Business segment showed growth potential but required more focused follow-ups to close open opportunities. Renewal performance remained steady across most branches, indicating good customer retention. However, Cross-Sell achievements were comparatively lower, suggesting the need for targeted cross-selling strategies and improved client engagement
 
-•	Cross-Selling Potential: Cross-sell targets were not fully achieved, indicating a need for deeper client engagement.
-
-•	Pipeline Analysis: A large number of open opportunities suggest strong potential but also highlight slow deal closures.
-
-•	Conversion Efficiency: Branches with higher meeting frequencies showed better conversion ratios.
-
-•	Top Performers: Identified top account executives based on invoices, revenue generation, and opportunity wins.
+# Final Conclusion
+The Insurance Analysis Dashboard proved to be an effective analytical tool for monitoring and enhancing overall business performance across branches. It provided a clear and interactive view of key metrics such as target achievements, invoiced results, opportunity management, and meeting performance. By integrating data from multiple sources, the dashboard enabled the corporate team and branch heads to make informed decisions backed by real-time insights. The analysis revealed strong areas in renewals and identified potential gaps in cross-sell and new business opportunities. Moreover, it highlighted the correlation between frequent client meetings and higher conversion ratios. Overall, the dashboard streamlined performance tracking, improved transparency, and established a data-driven approach for future planning and strategic growth.
 
 
 
