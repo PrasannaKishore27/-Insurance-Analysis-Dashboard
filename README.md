@@ -1,4 +1,4 @@
-# Insurance Data Analysis (Create Interactive Dashboards Using MS Excel, Tableau and Power BI)
+<img width="975" height="452" alt="image" src="https://github.com/user-attachments/assets/125c52ac-09d5-4629-b04c-0b95fa03a5ae" /># Insurance Data Analysis (Create Interactive Dashboards Using MS Excel, Tableau and Power BI)
 # Project Objective
 
 The main objective of the Branch KPI Dashboard is to track, analyze, and improve the performance of each branch by monitoring new and renewal business metrics.
@@ -30,7 +30,11 @@ Data Collection from multiple sheets:Target Sheet – Captured FY targets for Ne
  Data Cleaning and Preparation:	Removed duplicates and standardized formats.Mapped targets, achievements, and opportunities to each branch and executive.
  
   KPI Calculation:	Calculated Achievement % = (Achieved ÷ Target) × 100.	Calculated Conversion Ratio = (Closed Won ÷ Total Opportunities) × 100.	Computed branch-wise and individual performance metrics.
+ 
   Dashboard Creation: Designed visual charts for Targets vs Achievements, Opportunities, Meetings, and Invoices.
+  # Dashboards
+
+
 
 
 
