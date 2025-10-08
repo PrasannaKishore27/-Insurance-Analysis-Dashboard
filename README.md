@@ -4,7 +4,7 @@
 The main objective of the Branch KPI Dashboard is to track, analyze, and improve the performance of each branch by monitoring new and renewal business metrics.
 This dashboard enables the Corporate Team and Branch Heads to,Evaluate business growth through Targets vs. Achievements (New, Renewal, Cross-sell).Measure sales effectiveness, opportunity conversion, and individual contribution.Facilitate data-driven discussions and decisions to improve productivity and profitability.
 # Questions (KPI's)
-Calculate the Target vs Achieved performance for New, Cross-Sell, and Renewal business.
+.Calculate the Target vs Achieved performance for New, Cross-Sell, and Renewal business.
 
 Calculate the Percentage of Achievement for Placed and Invoiced amounts.
 
