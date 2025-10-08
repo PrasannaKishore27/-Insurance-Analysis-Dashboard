@@ -43,6 +43,18 @@ Tableau Dashboard:
 Power BI Dashboard:
 <img width="975" height="619" alt="image" src="https://github.com/user-attachments/assets/32911e83-3b4e-4860-a593-af6ddf59cf84" />
 
+# Project Insights
+•	Performance Variation: Some branches excelled in renewals, while others showed gaps in new business acquisition.
+
+•	Cross-Selling Potential: Cross-sell targets were not fully achieved, indicating a need for deeper client engagement.
+
+•	Pipeline Analysis: A large number of open opportunities suggest strong potential but also highlight slow deal closures.
+
+•	Conversion Efficiency: Branches with higher meeting frequencies showed better conversion ratios.
+
+•	Top Performers: Identified top account executives based on invoices, revenue generation, and opportunity wins.
+
+
 
 
 
