@@ -1,2 +1,2 @@
 # -Insurance-Analysis-Dashboard
-This project focuses on analyzing insurance data to identify key factors that influence policy pricing, claim frequency, and customer risk profiles. The goal is to leverage data-driven insights to improve decision-making in Account Executives.
+This project is designed to monitor and analyze both new and renewal business performance across different branches. It serves as a key tool for discussions between the Corporate Team and Branch Heads, focusing on sales, opportunities, and overall achievement of business targets.The dashboard evaluates individual and branch-level performance based on key metrics drawn from multiple data sources such as Target sheets, Brokerage & Fees sheets, Invoice sheets, Meeting reports, and Opportunity reports.
