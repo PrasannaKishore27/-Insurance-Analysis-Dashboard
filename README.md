@@ -34,8 +34,14 @@ Data Collection from multiple sheets:Target Sheet – Captured FY targets for Ne
   Dashboard Creation: Designed visual charts for Targets vs Achievements, Opportunities, Meetings, and Invoices.
   # Dashboards
 
-Excel Dashboard
+Excel Dashboard:
 <img width="975" height="452" alt="image" src="https://github.com/user-attachments/assets/125c52ac-09d5-4629-b04c-0b95fa03a5ae" />
+
+Tableau Dashboard:
+<img width="975" height="497" alt="image" src="https://github.com/user-attachments/assets/611621a1-ba99-4786-8c37-05e2f1babc26" />
+
+Power BI Dashboard:
+<img width="975" height="619" alt="image" src="https://github.com/user-attachments/assets/32911e83-3b4e-4860-a593-af6ddf59cf84" />
 
 
 
